@@ -1,1 +1,1 @@
-String testMessage = 'This is to test the sutosubmit.';
+String testMessage = 'This is to test the sutosubmit pubsub.';
